@@ -14,3 +14,6 @@ print(df.describe())
 df.loc[:, 'Order Date'] = pd.to_datetime(df['Order Date'], errors='coerce', dayfirst=False)
 df.loc[:, 'Ship Date'] = pd.to_datetime(df['Ship Date'], errors='coerce', dayfirst=False)
 
+
+#download cleaned data
+df.to_csv("clean_sales.csv", index=False)
