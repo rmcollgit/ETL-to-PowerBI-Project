@@ -1,2 +1,2 @@
-# ETL-to-PowerBI-Project
+# PowerBI-Project
 Integrated PowerBI with an automated data processing pipeline
