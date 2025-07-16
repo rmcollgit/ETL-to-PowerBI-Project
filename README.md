@@ -5,6 +5,8 @@ The project follows a clear pipeline: data is extracted, cleaned using Python an
 
 <img width="954" height="202" alt="image" src="https://github.com/user-attachments/assets/b859ad0c-5dea-4e04-8f3a-e5663e4daca7" />
 
+To see an overview of the analysis, please view the report within the main branch.
+
 ## The dataset
 
 Customer information: name, region, and ID
