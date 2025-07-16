@@ -3,6 +3,8 @@ This repository contains a complete end-to-end data project that transforms raw 
 
 The project follows a clear pipeline: data is extracted, cleaned using Python and Pandas, exported to CSV, and then visualised using Power BI. It is designed to be fully reproducible on your local machine.
 
+<img width="954" height="202" alt="image" src="https://github.com/user-attachments/assets/b859ad0c-5dea-4e04-8f3a-e5663e4daca7" />
+
 ## The dataset
 
 Customer information: name, region, and ID
@@ -14,6 +16,7 @@ Sales performance: sales value (count of sales was calculated to infer sales vol
 Delivery details: order and ship dates and ship mode (delivery time was calculated)
 
 Geography: US cities, states, and postal codes
+
 
 ## How to run on your machine
 
@@ -41,4 +44,15 @@ Page navigation:
 - Buttons on the side of each page allow you to easily switch between pages.
 - Just click the button whilst pressing Ctrl to move page.
 
+## Contributing
+Contributions are welcome, if you'd like to suggest a feature, fix a bug, or improve the dashboard:
 
+1. Fork the repository
+
+2. Create a new branch: git checkout -b feature/your-feature-name
+
+3. Make your changes and commit: git commit -m "Add feature"
+
+4. Push to your fork: git push origin feature/your-feature-name
+
+5. Open a pull request
